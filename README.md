@@ -200,3 +200,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [FontAwesome](https://fontawesome.com/)
 - [Chart.js](https://www.chartjs.org/)
 - [All Contributors](../../contributors)
+"# finance-manager" 
